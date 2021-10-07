@@ -11,9 +11,9 @@ and password
 
 udpsspassword
 
-then you can connect to it with [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) at address 192.168.42.254 port 6977 UDP protocol.
+then you can load the udpSS.json connect to the esp8266 with [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) at address 192.168.42.254 port 6977 UDP protocol.
 
-Send from [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) the + character and you yill receive data.
+Send from [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) the + character and you yill start receive data.
 
 To stop data flow send - character.
 
