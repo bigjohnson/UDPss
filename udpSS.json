@@ -1,0 +1,1 @@
+{"fe":"","fs":"","g":[{"d":[{"g":false,"max":100,"min":0,"t":"Count","u":"","v":"%1","w":""},{"g":true,"max":4,"min":0,"t":"sin","u":"","v":"%2","w":"gauge"},{"g":true,"max":4,"min":0,"t":"cos","u":"","v":"%3","w":"gauge"},{"g":true,"max":4,"min":0,"t":"tan","u":"","v":"%4","w":"gauge"}],"t":"udpSS","w":""}],"s":"","t":"udpSS"}
